@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nama_panggilan">Nama Panggilan</string>
+    <string name="tempat_tanggal_lahir">Tempat, Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="hobi">Hobi</string>
+    <string name="no_hp">No.Hp</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="biodata_diri">BIODATA DIRI</string>
+    <string name="ttl">TTL</string>
+    <string name="titik_dua">:</string>
+</resources>
